@@ -1,0 +1,46 @@
+[
+  {
+    "description": "CLI application revolutionizes the way we develop basic API systems. With just a few commands, you can quickly create a functional API and connect it to a database.",
+    "images": [
+      {
+        "src": "/blog/book-journey/0.png/0.png",
+        "type": "image"
+      },
+      {
+        "src": "/blog/book-journey/1.png",
+        "type": "image"
+      },
+      {
+        "src": "/blog/book-journey/2.png",
+        "type": "image"
+      }
+    ],
+    "likes": 0,
+    "link": "https://github.com/leandrMachado/Octopus-CLI",
+    "name": "Octopus-CLI",
+    "readme": "leandrMachado/Octopus-CLI",
+    "slug": "octopus-cli"
+  },
+  {
+    "name": "Notepad",
+    "slug": "notepad",
+    "likes": 0,
+    "images": [
+      {
+        "type": "image",
+        "src": "./assets/notepad/0.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/notepad/1.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/notepad/2.png"
+      }
+    ],
+    "description": "A notepad was created using Angular technology, where all data is saved within the LocalStorage.",
+    "link": "https://github.com/leandrMachado/Notepad",
+    "readme": "leandrMachado/Notepad"
+  }
+]
