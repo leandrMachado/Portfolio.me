@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.2b968f34.css",
-    "main.js": "/static/js/main.79c9dd9c.js",
+    "main.js": "/static/js/main.6c96c18a.js",
     "static/js/488.2d3131de.chunk.js": "/static/js/488.2d3131de.chunk.js",
     "static/media/LEMONMILK-Bold.otf": "/static/media/LEMONMILK-Bold.ac2b6389ba01ca1f431e.otf",
     "static/media/LEMONMILK-Regular.otf": "/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
     "static/media/AkiraExpandedDemo.otf": "/static/media/AkiraExpandedDemo.5198553380d9bb727554.otf",
     "index.html": "/index.html",
     "main.2b968f34.css.map": "/static/css/main.2b968f34.css.map",
-    "main.79c9dd9c.js.map": "/static/js/main.79c9dd9c.js.map",
+    "main.6c96c18a.js.map": "/static/js/main.6c96c18a.js.map",
     "488.2d3131de.chunk.js.map": "/static/js/488.2d3131de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b968f34.css",
-    "static/js/main.79c9dd9c.js"
+    "static/js/main.6c96c18a.js"
   ]
 }
