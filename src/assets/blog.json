@@ -1,30 +1,32 @@
 [
   {
-    "description": "CLI application revolutionizes the way we develop basic API systems. With just a few commands, you can quickly create a functional API and connect it to a database.",
+    "name": "Octopus-CLI",
+    "slug": "octopus-cli",
+    "likes": 0,
+    "index": 0,
     "images": [
       {
-        "src": "/blog/book-journey/0.png/0.png",
-        "type": "image"
+        "type": "image",
+        "src": "./assets/octopus-cli/0.png"
       },
       {
-        "src": "/blog/book-journey/1.png",
-        "type": "image"
+        "type": "image",
+        "src": "./assets/octopus-cli/1.png"
       },
       {
-        "src": "/blog/book-journey/2.png",
-        "type": "image"
+        "type": "image",
+        "src": "./assets/octopus-cli/2.png"
       }
     ],
-    "likes": 0,
+    "description": "CLI application revolutionizes the way we develop basic API systems. With just a few commands, you can quickly create a functional API and connect it to a database.",
     "link": "https://github.com/leandrMachado/Octopus-CLI",
-    "name": "Octopus-CLI",
-    "readme": "leandrMachado/Octopus-CLI",
-    "slug": "octopus-cli"
+    "readme": "leandrMachado/Octopus-CLI"
   },
   {
     "name": "Notepad",
     "slug": "notepad",
     "likes": 0,
+    "index": 0,
     "images": [
       {
         "type": "image",
@@ -42,5 +44,71 @@
     "description": "A notepad was created using Angular technology, where all data is saved within the LocalStorage.",
     "link": "https://github.com/leandrMachado/Notepad",
     "readme": "leandrMachado/Notepad"
+  },
+  {
+    "name": "Global Chat",
+    "slug": "global-chat",
+    "likes": 0,
+    "index": 0,
+    "images": [
+      {
+        "type": "image",
+        "src": "./assets/global-chat/0.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/global-chat/1.png"
+      }
+    ],
+    "description": "Simple global chat where everyone can interact through a terminal-style interface.",
+    "link": "https://github.com/leandrMachado/Global-chat"
+  },
+  {
+    "name": "Book Journey",
+    "slug": "book-journey",
+    "likes": 0,
+    "index": 0,
+    "images": [
+      {
+        "type": "image",
+        "src": "./assets/book-journey/0.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/book-journey/1.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/book-journey/2.png"
+      }
+    ],
+    "description": "Book-Journey is an innovative platform dedicated to game book enthusiasts, offering a unique experience for both readers and creators of interactive adventures.",
+    "link": "https://github.com/leandrMachado/Book-Journey",
+    "website": "https://eldoria-history.vercel.app"
+  },
+  {
+    "name": "Sanctuary of Shadows: The Cycle of Chaos",
+    "slug": "sanctuary-of-shadows-the-cycle-of-chaos",
+    "likes": 0,
+    "index": 0,
+    "images": [
+      {
+        "type": "image",
+        "src": "./assets/sanctuary-of-shadows-the-cycle-of-chaos/0.png"
+      },
+      {
+        "type": "video",
+        "src": "./assets/sanctuary-of-shadows-the-cycle-of-chaos/1.mp4"
+      },
+      {
+        "type": "image",
+        "src": "./assets/sanctuary-of-shadows-the-cycle-of-chaos/2.png"
+      },
+      {
+        "type": "image",
+        "src": "./assets/sanctuary-of-shadows-the-cycle-of-chaos/3.png"
+      }
+    ],
+    "description": "Sanctuary of Shadows is a 2D action RPG, in top-down style, heavily inspired by games in the 'souls-like' genre. The player takes control of a lone protagonist who finds himself in a decaying and dark world full of mystery. ( Made in Unity 2D )"
   }
 ]
